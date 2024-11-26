@@ -1,4 +1,4 @@
-length = 11
+length = 21
 input = "abcctklpokjp"
 
 a = []
